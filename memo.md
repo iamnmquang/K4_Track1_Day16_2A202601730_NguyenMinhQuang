@@ -1,6 +1,16 @@
 # Memo Teardown — CURSOR (Anysphere)
 
-**Thành viên:** Nguyễn Minh Quang (2A202601730) · **Ngày:** 14/08/2026
+**Nhóm: Mixue**
+
+Nguyễn Minh Quang - 2A202601730
+
+Lê Đăng Tấn - 2A202601916
+
+Phạm Tiến Hưng - 2A202601800
+
+Nguyễn Quang Sơn - 2A202601956
+
+**Ngày:** 14/08/2026
 
 **Vì sao chọn sản phẩm này:** Cursor là ca hiếm cho phép quan sát trọn một vòng đời "wrapper AI" chỉ trong ba năm — từ 4 người fork VS Code (2023), đến tự huấn luyện model nền của riêng mình (2025–2026), rồi bị chính lớp hạ tầng mua lại với giá 60 tỷ USD (2026). Mọi nguyên lý học trong buổi đều có một mốc thật để đối chiếu, thay vì phải suy đoán.
 
